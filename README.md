@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/varunesh17/Leetcode/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/varunesh17/Leetcode/tree/master/0414-third-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/varunesh17/Leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
