@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/varunesh17/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/varunesh17/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/varunesh17/Leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
