@@ -27,9 +27,11 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/varunesh17/Leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunesh17/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunesh17/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/varunesh17/Leetcode/tree/master/0414-third-maximum-number) |
 ## Sorting
 |  |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/varunesh17/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunesh17/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
